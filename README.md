@@ -4,4 +4,4 @@ went_on_backorder - Product actually went on backorder or not. This is the targe
 
  2 datasets , product_train.csv and product_test.csv is given . You need to use data product_train to build predictive model for response variable ‘went_on_backorder’. product_test data contains all other factors except ‘went_on_backorder’, you need to predict the response as hard classes (Yes or No)  using the model that you developed.
 
-Evaluation Criterion : KS score on test data.
+
